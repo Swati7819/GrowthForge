@@ -1,0 +1,82 @@
+L1: Introduction
+
+L2: What is a wireframe?
+A great picture is worth 1000 words.
+
+Wireframe is a technique to visualize user's thoughts, preferences and requirements about user interface(UI) and user experience(UX) of a website or a mobile app.
+
+Basically, it's a low fidelity(low-fi) sketch/skeleton of a website or mobile app that helps to validate and finalize UI/UX requirements and creates a strong foundation to develop high fidelity( hi-fi) user interface designs called "Prototypes".
+
+A wireframe consists of a basic outline of essential components of a website or mobile app such as: Screen layouts, navigation bars, components of UI/UX design, interactive elements.
+
+It is a powerful and iterative process where the wireframes are created, reviewed by stakeholders and kept on revising until they are finalized.
+
+Steps for successful wireframe creation:
+
+1. Articulate = Writing down the UI/UX requirements from users (Stakeholders)
+2. Outline = Of the solution to fulfill the UI/UX requirements.
+3. Create wireframe = Based on the outline
+4. Review = With Stakeholders.
+5. Iterate = Work on the feedback received and improve the wireframe until they are approved by users.
+
+L3: When to use wireframe?
+There are 4 different scenarios to be considered:
+1. When a new web or mobile app needs to be developed.
+2. When it is required to explore and evaluate different user interface ideas for a new product concept.
+3. When the stakeholders have different conflicting ideas about UI elements of a product feature.
+4. When a new feature to be added to an existing app but there is no established design system or hi - fi designs available.
+
+L4: Why should a BA prepare wireframe?
+:)
+
+L5: Popular Wireframing Tools
+1. Figma
+Explore design possibilities, build prototypes, and easily translate your work into code with Figma - a collaborative product development platform for teams.
+
+It offers:
+Low fi wireframes and Hi-Fi designs(Prototypes)
+Contextual comments and real time collaboration
+Web and desktop apps
+Free forever for draft designs
+Paid plans for advanced features
+
+
+2. Uizard
+Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI.
+
+It offers:
+Low fi wireframes and Hi-Fi designs(Prototypes)
+Web and desktop apps
+Contextual comments and collaboration
+Limited free plan and paid plans
+AI designs
+
+3. Balsamiq
+Get your ideas out quickly and clearly with Balsamiq - the low fidelity, high impact tool loved by product managers, founders, developers and UX teams everywhere
+
+It offers:
+Only Low fi wireframes
+Built in components
+Web and desktop apps
+30 days free trial
+Paid subscription plans
+
+L6: Articulate user interface requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+L7: Create Outline solution
+
+L8: Best practices in wireframe design
+
+1. Choose the appropriate size for your wireframe. It should match with screen size of your target audience. For eg. 1024*1440 is a standard size for desktop.
+
+2. Keep your wireframe design simple, neat and relevant. Use gray scale colors, make sure it matches with the user needs, use relevant sample data instead of junk text so that the user can relate to it.
+
+3. Maintain consistency. Reuse component where possible to have a consistent look and feel. Use the same font and grayscale color styles across. There should be equal spacing between different elements.
+
+4. Make navigation obvious. User flows should be fluid and intuitive. 
+
+L9: Introduction to Figma
+
+1. How to access Figma?
+Create account
+Use web version
+Use desktop version
+
+2. Key features of Figma with respect to wireframes designs
+Frame
+Basic shapes
+Design styles
+Layers
+Assets
+Pages
+Commenting
+Sharing
+Exporting
+
+Learn about other features of Figma in the Figma app
+
+
+
+
+
+
