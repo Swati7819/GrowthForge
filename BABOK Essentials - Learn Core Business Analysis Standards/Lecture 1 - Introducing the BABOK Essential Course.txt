@@ -1,0 +1,27 @@
+Lecture 1 - Introducing the BABOK Essential Course
+
+BABOK - Business Analysis Body Of Knowledge
+
+BABOK Serves as the globally recognized standard for business analysis professionals. 
+
+
+This course will teach us foundational concept.
+
+
+The BABOK guide isn't just a collection of definitions, its a resource that helps is equip BA with a structured framework to understand and excel in their role. 
+
+Think of it as a professional compass offering guidance on what a BA does and how it does it effectively.
+
+We will gain knowledge of 6 knowledge areas that span the life cycle of business analysis from the following:
+
+1. Business analysis planning and monitoring.
+2. Elicitation and collaboration.
+3. Requirements Life Cycle Management.
+4. Strategy Analysis.
+5. Requirements Analysis and Design Definitions.
+6. Solution Evaluation. 
+
+
+We will also aim to build a strong foundation in the Business Analysis Core Concept Model (BACCM).
+
+
