@@ -1,0 +1,25 @@
+Lecture 5 - Introduction to BABOK v3
+
+BABOK - Foundation of modern business analysis practices and it serves as a comprehensive roadmap for organizational change and value delivery. 
+
+BABOK provides a structured framework to help you succeed in identifying business needs, crafting solutions and delivering measurable value to your stakeholders. 
+
+At its core, the BABOK guide is much more than a set of guidelines. 
+
+It's a globally recognized standard for business analysis that defines what we do and how we do it. 
+
+It's also a flexible and adaotable framework that can be applied to virtually any industry, methodology or organizational context. 
+
+It equips you with the knowledge and tools you need to work effectively in any environment, whether you are collaborating on a small local project or leading a large scale transformation for a multinational organization, the structure of the BABOK guide is strategically organized to cover all aspect of business analysis work. 
+
+It's divided into key components starting with essential knowledge areas and these are the pillars of the BABOK guide and represent the primary domains of business analysis. 
+
+They encompass every stage of the process, from planning and eliciting requirements to managing solutions and analyzing strategy. 
+
+
+Underlying competencies which help to make effective business analysis. 
+
+BABOK provides a shared language and framework that can bridge gaps between teams, industries and even cultures. It helps you align stakeholders, clarify goals and ensure that the solutions you design and deliver are of real value.
+
+
+ 

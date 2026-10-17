@@ -1,0 +1,71 @@
+Lecture 6 - Mastering the BACCM framework
+
+The BACCM = Business Analysis Core Concept Model, is the backbone of the BABOK guide and is the foundational element of business analysis.
+
+Its a way of thinking rather than a framework.
+
+The backbone provides a structured lens through which all BA work can be viewed, ensuring that every decision, action, and deliverable aligns with organizational goals and stakeholders needs. 
+
+
+6 core concept of BACCM:
+
+1. Change
+2. Need
+3. Solution
+4. Stakeholder
+5. Value
+6. Context
+
+
+Change
+Heart of business analysis work. As BA, we help to move organization from current state to desired future state.
+
+BACCM reminds us that no matter how large or small the initiative, our role is to define, support and enable change in a way that delivers meaningful results.
+
+Change is always driven by a need. 
+
+
+Need
+
+A need represents the problem or opportunity that sparks the desire for change. 
+
+As BA, our work starts with identifying the need and ensuring it is clearly understood and agreed upon by stakeholders. 
+
+Defining a need is crucial as it answers the why behind the change and it keeps the change focused on solving the right problem to address a need.
+
+To address a need, we create a solution.
+
+Solution
+A solution is how we solve a problem or we seize the opportunity presented by that need. Can have many form such as new software or updated process or structural change within and organization.
+
+
+Value
+
+It is the positive impact a solution creates for the organization and for its stakeholders. It can be financial gain, improved customer satisfaction, operational efficiency or even regulatory compliance. 
+
+
+Stakeholders
+
+These are the individuals or groups affected by or involved in the change. Managing stakeholders effectively is one of the most critical aspects of business analysis.  
+
+Context
+Which refers to the environment where the change occurs. It includes factors like organizational culture, managing conditions. and regulatory requirements. 
+Understanding context is essential because it influences how needs, solutions and values are defined and delivered. 
+
+
+
+Relationship between BACCM concept
+
+A need is addressed by change
+A change is made with the solution
+Value is the success gained from the solution
+Stakeholders are those taking part in or affected by that change
+Context serves as the foundation influencing every aspect of how that solution is designed, developed and implemented. 
+
+
+These core concepts serve as a constant reminder that business analysis is not just about solving problems, it's about creating meaningful and sustainable value. 
+
+
+
+
+
