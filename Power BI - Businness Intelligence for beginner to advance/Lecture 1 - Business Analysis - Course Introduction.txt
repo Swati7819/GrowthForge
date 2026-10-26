@@ -1,0 +1,9 @@
+1. Benefits and goals of this course:
+a. Information readily available for users and developers.
+b. User will use and trust the reports.
+c. User will know how to use the reports.
+d. Less time spent in creating and maintaining the reports.
+e. Support time will decrease.
+f. Help in adoption of analytics tool.
+g. Get Microsoft ROI back faster.
+h. Better for the organization.
