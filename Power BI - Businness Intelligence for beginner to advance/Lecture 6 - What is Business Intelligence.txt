@@ -1,0 +1,10 @@
+1. BI is all about harnessing the data that our business generates so we can analyze and visualize it to gain insights on how our business is performing. According to Forrester Research, BI is a set of methodologies, processes, architecture and technologies that transform raw data into meaningful and useful information used to enable more effective strategic, tactical and operational insight and decision making.
+
+2. BI -->
+a. Increase Revenue
+b. Better faster decisions
+c. Improve customer satisfaction
+d. Reduce IT count head
+e. Reduce cost
+f. Improve budget
+g. Optimize ROI on operations
